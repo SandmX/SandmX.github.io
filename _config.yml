@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Sandm's Blog
+SEOTitle: Sandm的博客 | Sandm's Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+email: sandmx.work@gmail.com
+description: "这里是 @Sandm 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+keyword: "Sandm, SandmX, SandmXyz, sandm, sandmx, @sandm, Sandm的博客, Sandm's Blog, 博客, 个人网站, 互联网, Web, Python, Jekyll, PySide, PyQt, 爬虫"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: sandmxyz
+zhihu_username: sandm-70-77
+github_username: SandmX
+twitter_username: SandmXyz
+facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -69,13 +69,13 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: "G-KV06ZDRYRD" # Format: UA-xxxxxx-xx UA-49627206-1
+ga_domain: SandmX.github.io # huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/SandmX.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
