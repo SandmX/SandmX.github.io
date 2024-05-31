@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: sandmxyz
+#weibo_username: sandmxyz
 zhihu_username: sandm-70-77
 github_username: SandmX
 twitter_username: SandmXyz
-facebook_username:  huxpro
+facebook_username:  61560130987666
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: SandmBlog
 
 # Netease settings
 netease_comment: false
