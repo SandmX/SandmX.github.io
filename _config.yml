@@ -69,7 +69,7 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-44354206-6" # Format: UA-xxxxxx-xx UA-49627206-1
+ga_track_id: "G-KV06ZDRYRD" # Format: UA-xxxxxx-xx UA-49627206-1
 # ga_domain: SandmX.github.io # huangxuan.me
 
 # Sidebar settings
