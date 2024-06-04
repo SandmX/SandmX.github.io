@@ -1,7 +1,11 @@
-[Hux Blog](https://huangxuan.me)
+[Sandm's Blog](https://sandmx.github.io)
 ================================
 
 > I never expected this to become popular.
+
+Powered by Hux.
+
+Here is the original readme >
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
